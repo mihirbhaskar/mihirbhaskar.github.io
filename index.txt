@@ -2,35 +2,33 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Mihir Bhaskar
+Mihir Bhaskar
+Data Science for Good / Public Interest Tech 
 
 Show Contacts
 
 Email
-richard@example.com
+mihirb@andrew.cmu.edu
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++1 (781) 654-9681
 
 Location
-Sacramento, California, USA
+Pittsburgh, Pennsylvania, USA
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about
 
 About me
+
+I'm a current graduate student at Carnegie Mellon University learning how to apply data science, optimization and tech to public interest issues in a fair and responsible way. 
 
 I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
@@ -93,8 +91,8 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
+Carnegie Mellon University
+2021 — 2023
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 New york academy of art
