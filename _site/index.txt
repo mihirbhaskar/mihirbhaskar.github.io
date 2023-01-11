@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Mihir Bhaskar
 Mihir Bhaskar
-Data Science for Good / Public Interest Tech 
+Data Scientist
 
 Show Contacts
 
@@ -22,17 +22,22 @@ Pittsburgh, Pennsylvania, USA
 About
 Resume
 Portfolio
+Blog
 Contact
 
 # about
 
 About me
 
-I'm a current graduate student at Carnegie Mellon University learning how to apply data science, optimization and tech to public interest issues in a fair and responsible way. 
+I'm a current Master's student at Carnegie Mellon University, enrolled in an interdisciplinary program blending data science and public policy. 
+Alongside courses in machine learning and optimization, I've been learning about AI ethics, design thinking, transportation systems, and more.
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+When I graduate in May 2023, I'd like to work on improving public interest services and tech products in a fair and responsible way. 
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Before CMU, I worked for 5 years at the Poverty Action Lab (J-PAL) on various projects with Indian state government departments. 
+
+My team used administrative data to provide quick insights on programs, identify data quality improvements, and scope longer-term research. 
+I hold a Bachelor’s degree in Economics from the University of Cambridge.
 
 
 ## service
