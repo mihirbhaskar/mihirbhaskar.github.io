@@ -1865,6 +1865,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .contacts-list { grid-template-columns: 1fr; }
 
+  .contact-info .contact-link {
+    font-size: 12px; /* Make text smaller so it fits */
+    max-width: 100%; /* Ensure it doesn't overflow */
+  }
+
   .contact-info :is(.contact-link) {
     white-space: nowrap;
     overflow: hidden;
