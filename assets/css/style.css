@@ -123,8 +123,11 @@
   box-sizing: border-box;
 }
 
-a { text-decoration: underline;
-    color: inherit; }
+a {
+  text-decoration: underline;
+  color: inherit;
+  display: inline;
+}
 
 li { list-style: none; }
 
@@ -513,7 +516,10 @@ main {
 
 .service { margin-bottom: 35px; }
 
-.service-title { margin-bottom: 20px; }
+.service-title { 
+  margin-bottom: 20px; 
+  color: var(--orange-yellow-crayola); 
+}
 
 .service-list {
   display: grid;
