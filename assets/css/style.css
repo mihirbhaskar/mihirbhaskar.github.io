@@ -123,11 +123,8 @@
   box-sizing: border-box;
 }
 
-a {
-  text-decoration: underline;
-  color: inherit;
-  display: inline;
-}
+a { text-decoration: underline;
+    color: inherit; }
 
 li { list-style: none; }
 
@@ -516,10 +513,7 @@ main {
 
 .service { margin-bottom: 35px; }
 
-.service-title { 
-  margin-bottom: 20px; 
-  color: var(--orange-yellow-crayola); 
-}
+.service-title { margin-bottom: 20px; color: var(--orange-yellow-crayola);}
 
 .service-list {
   display: grid;
@@ -551,7 +545,10 @@ main {
 
 .service-content-box { text-align: center; }
 
-.service-item-title { margin-bottom: 7px; }
+.service-item-title {
+  margin-bottom: 7px;
+  color: var(--orange-yellow-crayola);
+}
 
 .service-item-text {
   color: var(--light-gray);
