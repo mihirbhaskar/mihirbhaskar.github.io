@@ -958,7 +958,7 @@ main {
 
 .project-img {
   position: relative;
-  width: 100%;
+  width: 200px;
   height: 200px; /* This keeps the uniform height */
   border-radius: 16px;
   overflow: hidden;
